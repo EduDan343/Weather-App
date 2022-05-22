@@ -1,0 +1,44 @@
+#logoHenry {
+  margin-right: 10px;
+}
+
+.navbar h4 {
+  color: aliceblue;
+}
+
+.navbar h4:hover {
+  color: brown;
+}
+
+.Logo {
+  display: flex;
+  align-items: center;
+  color: aliceblue;
+}
+
+.Logo h3:hover {
+  color: aqua;
+}
+
+#inputSearch {
+  padding: 5px 1px;
+  margin-right: 25px;
+  border-radius: 8px;
+  border: 2px solid greenyellow;
+}
+
+#btnNav {
+  margin-right: 30px;
+  padding: 5px;
+  background-color: gray;
+  color: azure;
+  border-radius: 10px;
+  border: 2px solid red;
+}
+
+#btnNav:hover {
+  background-color: aqua;
+  border: 3px solid greenyellow;
+  color: black;
+  font-size: large;
+}
